@@ -1,0 +1,18 @@
+EcmaScript:
+            Ecma- European Computer Manufacturers Association.
+    ES6 or EcmaScript 2015 is the 6th standard and major edition of the EcmaScript language specification standard
+    for the implementation of Javascript an it ghas become much more popular than the previous edition ES5.
+
+    ES6 comes with the significant changes to the javascript language.It bought several new features like let and const variable
+    rest and spread operators,emplate literals,classes,modules and many other enhancements to make js programming easier and more functional.
+
+ES6 features:
+1.let and const keyword.
+2.Arrow Functions.
+3.Default Parameter.
+4.Template literals and Multi line Strings
+5.Destructuring.
+6.High Order Functions.
+7.Promises
+8.classes.
+9.Modules.

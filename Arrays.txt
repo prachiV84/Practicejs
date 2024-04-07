@@ -1,0 +1,34 @@
+Array-
+      similar to variable an Array also stores data but it can store multiple data items.
+
+    It enables storing multiple values under same variable name and we can perform operation on them 
+    by using different methods and properties also every value gets a sequential index starting from 0.
+
+    In javascript arrays can store values of different data types. whereas in staticaly typed language can store
+    only that data by which array is defined.
+
+    Representing an Array:
+             aray starts from index 0 by default and it goes upto the last element.  
+
+
+  Array Methods-
+    1.pop():here value is removed from the last index.
+     eg:
+        arr2.pop()
+        console.log(arr2);
+
+    2. push():here value is added at the last index.
+        eg:arr2.push(100)
+          console.log(`pushed a array`,arr2);
+        
+    3.shift() :basically works like pop but it will remove the value from first.
+
+         eg: var d=arr2.shift()
+           console.log(d);
+
+    4.unshift (): basically works like push(),but it will add element at the start index.
+
+           eg:  var e=arr2.unshift(24)
+             console.log(e);
+             console.log(arr2);      
+    

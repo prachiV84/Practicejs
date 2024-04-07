@@ -1,0 +1,1 @@
+Pure Functions: given a same input,always return the same output. and produces no side effects.

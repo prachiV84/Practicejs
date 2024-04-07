@@ -1,0 +1,5 @@
+Imperative way to code : how to go about a solution or hox=w to solve a problem.
+--> approach, strategy,logic is important.
+
+declarative way to code: what to achieve from the problem.
+--> approach, strategy,logic are not that important because we have pre-written code and we are using it.

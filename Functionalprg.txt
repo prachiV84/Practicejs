@@ -1,0 +1,17 @@
+Functional Programming:
+                       Functional Programming is a programming paradigm designed to handle fuctions in a better way in js.
+                       (mainly pure fuctions).
+
+               JavaScript is a multi-paradigm language.we can ues object oriented,procedural and functional prg paradigms all at the
+                same time in js.
+          
+        Functional programming has a few important concepts that we need to know and understand.By implementing these concepts in our
+         application we will be ending up with more of functional code,this will make a huge differencein our application.  
+
+   Key Features of functional programming
+1. Imperative and Declarative way of writing code.
+2. Pure fuctions.
+3.Higher order Functions(map,filter,reduce,etc)
+4.composition
+5.closure
+6.currying
